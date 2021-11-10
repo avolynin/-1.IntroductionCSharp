@@ -1,0 +1,13 @@
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\bin\Debug\netcoreapp3.1\task1.exe
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\bin\Debug\netcoreapp3.1\task1.deps.json
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\bin\Debug\netcoreapp3.1\task1.runtimeconfig.json
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\bin\Debug\netcoreapp3.1\task1.runtimeconfig.dev.json
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\bin\Debug\netcoreapp3.1\task1.dll
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\bin\Debug\netcoreapp3.1\task1.pdb
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\obj\Debug\netcoreapp3.1\task1.csprojAssemblyReference.cache
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\obj\Debug\netcoreapp3.1\task1.AssemblyInfoInputs.cache
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\obj\Debug\netcoreapp3.1\task1.AssemblyInfo.cs
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\obj\Debug\netcoreapp3.1\task1.csproj.CoreCompileInputs.cache
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\obj\Debug\netcoreapp3.1\task1.dll
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\obj\Debug\netcoreapp3.1\task1.pdb
+D:\Users\Camputer\source\repos\Mallenom.IntroductionCSharp\src\task1.prj\obj\Debug\netcoreapp3.1\task1.genruntimeconfig.cache
