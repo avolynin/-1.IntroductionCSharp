@@ -6,8 +6,11 @@ namespace Mallenom.IntroductionCSharp
 {
 	class Entity
 	{
+		/// <summary>Возраст сущности</summary>
 		private int _age = -1;
+		/// <summary>Максимальный возможный возраст</summary>
 		public const int maxAge = 99;
+		/// <summary>Минимальный возможный возраст</summary>
 		public const int minAge = 0;
 
 		public int Age
@@ -15,6 +18,7 @@ namespace Mallenom.IntroductionCSharp
 			get { return _age; }
 			set
 			{
+				//Проверка границ вводимого возраста
 				if(value < minAge || value > maxAge)
 				{
 					Console.WriteLine("Возраст доступный для ввода: от 0 до 99 лет");
@@ -33,6 +37,7 @@ namespace Mallenom.IntroductionCSharp
 
 		public void printAge()
 		{
+			//Age равняется -1 в случае, если возраст не задан
 			if(Age == -1)
 			{
 				Console.WriteLine("Возраст неизвестен");
@@ -40,6 +45,8 @@ namespace Mallenom.IntroductionCSharp
 			}
 
 			StringBuilder sb = new StringBuilder($"Мне {Age} ");
+			//Промежуточная переменная для хранения последних 2 или 1 цифр числа
+			//для определения подходящего слова
 			int lastNum = Age;
 
 			//if(lastNum >= 100) lastNum %= 100;

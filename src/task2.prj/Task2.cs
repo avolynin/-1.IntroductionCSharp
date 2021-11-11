@@ -2,8 +2,15 @@
 
 namespace Mallenom.IntroductionCSharp
 {
+	/// <summary>
+	/// Консольное приложение, при запуске которого на экран командной строки
+	/// выводится равносторонний треугольник, составленный из указанных символов.
+	/// </summary>
 	class Task2
 	{
+		/// <summary>Рисование равностороннего треугольника из переданного символа.</summary>
+		/// <param name="sideSize">Длина сторон треугольника</param>
+		/// <param name="symbol">Тип символа для рисования</param>
 		static void drawEquilateralTriangle(int sideSize, char symbol)
 		{
 			if ((sideSize % 2) != 0)
@@ -24,8 +31,7 @@ namespace Mallenom.IntroductionCSharp
 
 		static void Main(string[] args)
 		{
-			int N;
-
+			int N; //Величина стороны равностороннего треугольника
 			Console.Write("Введите целочисленную величину стороны треугольника: ");
 			bool result = Int32.TryParse(Console.ReadLine(), out N);
 
